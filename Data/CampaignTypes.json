@@ -1,0 +1,65 @@
+[
+    {
+        "campaignType_id": 1,
+        "campaignType_name": "Get Leads as call",
+        "campaignType_desc": "Reach broad audience and get leads through calls",
+        "icon": "phone_callback",
+        "platform": "google"
+    },
+    {
+        "campaignType_id": 2,
+        "campaignType_name": "Get Leads as Facebook messages",
+        "campaignType_desc": "Get more FB messages from Leads",
+        "icon": "chat",
+        "platform": "facebook"
+    },
+    {
+        "campaignType_id": 3,
+        "campaignType_name": "Increase Page followers",
+        "campaignType_desc": "Encourage customers to follow your page",
+        "icon": "person_add",
+        "platform": "facebook"
+    },
+    {
+        "campaignType_id": 4,
+        "campaignType_name": "Get Customer Leads",
+        "campaignType_desc": "Encourage customers to take action",
+        "icon": "group",
+        "platform": "facebook"
+    },
+    {
+        "campaignType_id": 5,
+        "campaignType_name": "Get More youtube views",
+        "campaignType_desc": "Increase organic views by obtaining user attention",
+        "icon": "visibility",
+        "platform": "youtube"
+    },
+    {
+        "campaignType_id": 6,
+        "campaignType_name": "Get More website Traffic",
+        "campaignType_desc": "Get the right people to visit your website",
+        "icon": "web_traffic",
+        "platform": "instagram"
+    },
+    {
+        "campaignType_id": 7,
+        "campaignType_name": "Increase Livestore Traffic",
+        "campaignType_desc": "Drive visits to local stores, restaurants & Dealerships",
+        "icon": "storefront",
+        "platform": "google"
+    },
+    {
+        "campaignType_id": 8,
+        "campaignType_name": "Increase your app installs",
+        "campaignType_desc": "Get more installs, interactions for your app",
+        "icon": "install_mobile",
+        "platform": "youtube"
+    },
+    {
+        "campaignType_id": 9,
+        "campaignType_name": "Increase the catalogue sales",
+        "campaignType_desc": "Drive the sales of your catalogue and get more leads",
+        "icon": "assignment",
+        "platform": "google"
+    }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "campaignType": {
+      "campaignType_id": 2,
+      "campaignType_name": "Get Leads as Facebook messages",
+      "campaignType_desc": "Get more FB messages from Leads",
+      "platform": "facebook"
+    },
+    "product": {
+      "product_id": 11,
+      "product_imageUrl": "images/img_unsplashs2jw81lfrg0.png",
+      "product_name": "Blueberry Cake Campaign",
+      "product_price": 2345
+    },
+    "createdOn": "14 Jul",
+    "startDate": "25 Jul 2020",
+    "endDate": "01 Aug 2020",
+    "clicks": 300,
+    "budget": 3400,
+    "location": "Kolkata",
+    "status": "live_now"
+  },
+  {
+    "id": 2,
+    "campaignType": {
+      "campaignType_id": 2,
+      "campaignType_name": "Get Leads as Facebook messages",
+      "campaignType_desc": "Get more FB messages from Leads",
+      "platform": "facebook"
+    },
+    "product": {
+      "product_id": 12,
+      "product_imageUrl": "images/img_unsplashkpxsqugnexq.png",
+      "product_name": "Chocolate Cake Campaign",
+      "product_price": 2345
+    },
+    "createdOn": "20 Jan",
+    "startDate": "25 Jul 2020",
+    "endDate": "01 Aug 2020",
+    "clicks": 210,
+    "budget": 3400,
+    "location": "Bengaluru",
+    "status": "paused"
+  },
+  {
+    "id": 3,
+    "campaignType": {
+      "campaignType_id": 3,
+      "campaignType_name": "Increase Page followers",
+      "campaignType_desc": "Encourage customers to follow your page",
+      "platform": "facebook"
+    },
+    "product": {
+      "product_id": 13,
+      "product_imageUrl": "images/img_unsplash5k5nc3agf1w.png",
+      "product_name": "Brownie Cake Campaign",
+      "product_price": 2345
+    },
+    "createdOn": "12 Jun",
+    "startDate": "25 Jul 2020",
+    "endDate": "01 Aug 2020",
+    "clicks": 123,
+    "budget": 3400,
+    "location": "Kolkata",
+    "status": "exhausted"
+  },
+  {
+    "id": 4,
+    "campaignType": {
+      "campaignType_id": 5,
+      "campaignType_name": "Get More youtube views",
+      "campaignType_desc": "Increase organic views by obtaining user attention",
+      "platform": "youtube"
+    },
+    "product": {
+      "product_id": 14,
+      "product_imageUrl": "images/img_unsplasht5kptbbke.png",
+      "product_name": "Pumpkin Cake Campaign",
+      "product_price": 2345
+    },
+    "createdOn": "28 Feb",
+    "startDate": "25 Jul 2020",
+    "endDate": "01 Aug 2020",
+    "clicks": 435,
+    "budget": 3400,
+    "location": "Gurugram",
+    "status": "live_now"
+  },
+  {
+    "id": 5,
+    "campaignType": {
+      "campaignType_id": 1,
+      "campaignType_name": "Get Leads as call",
+      "campaignType_desc": "Reach broad audience and get leads through calls",
+      "platform": "google"
+    },
+    "product": {
+      "product_id": 15,
+      "product_imageUrl": "images/img_unsplashnxkwln8y9qe.png",
+      "product_name": "Cup Cake Campaign",
+      "product_price": 2345
+    },
+    "createdOn": "10 Jun",
+    "startDate": "25 Jul 2020",
+    "endDate": "01 Aug 2020",
+    "clicks": 123,
+    "budget": 3400,
+    "location": "Gurugram",
+    "status": "live_now"
+  }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Bluberry cake with raw toppings",
+        "product_price": 2290,
+        "product_imageUrl": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "product_id": 2,
+        "product_name": "Chocolate truffle cake",
+        "product_price": 2190,
+        "product_imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=1989&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "product_id": 3,
+        "product_name": "Browine cake with fluffy cream",
+        "product_price": 1222,
+        "product_imageUrl": "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "product_id": 4,
+        "product_name": "Ferro rocher cake",
+        "product_price": 1234,
+        "product_imageUrl": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "product_id": 5,
+        "product_name": "Custurd mixed with fruit cake",
+        "product_price": 2456,
+        "product_imageUrl": "https://images.unsplash.com/photo-1519915028121-7d3463d20b13?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "product_id": 6,
+        "product_name": "Best raw topping choco cake",
+        "product_price": 2345,
+        "product_imageUrl": "https://images.unsplash.com/photo-1607257882338-70f7dd2ae344?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "product_id": 7,
+        "product_name": "Green cup cakes",
+        "product_price": 1234,
+        "product_imageUrl": "https://images.unsplash.com/photo-1587668178277-295251f900ce?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "product_id": 8,
+        "product_name": "Blueberry topping cakes",
+        "product_price": 2456,
+        "product_imageUrl": "https://images.unsplash.com/photo-1618426703623-c1b335803e07?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "product_id": 9,
+        "product_name": "Strawberry cakes with blueberry",
+        "product_price": 2345,
+        "product_imageUrl": "https://images.unsplash.com/photo-1559553156-2e97137af16f?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]
