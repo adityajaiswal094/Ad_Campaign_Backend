@@ -1,8 +1,8 @@
-# Zocket Assignment Backend
+# Ad-Campaign Creator Backend
 
 ## About this application
 
-This Node.js application serves as the backend server for the zocket assignment frontend application.
+This Node.js application serves as the backend server for the ad-campaign creator frontend application.
 Make sure to keep this project running or else the frontend application won't work.
 
 ## Getting Started
